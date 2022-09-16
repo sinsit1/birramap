@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oscarfonts/residuzeroosona.git"
+    "url": "git+https://github.com/sinsit1/birramap.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/residuzeroosona/residuzeroosona/issues"
+    "url": "https://github.com/sinsit1/birramap/issues"
   },
-  "homepage": "https://fonts.cat/residuzeroosona",
+  "homepage": "https://github.com/sinsit1",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
