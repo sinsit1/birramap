@@ -1,0 +1,56 @@
+{
+  "range": "Locals!A1:Z997",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Nom",
+      "Adreça",
+      "Població",
+      "Lat",
+      "Lon",
+      "Descripció",
+      "Tipus",
+      "ID"
+    ],
+    [
+      "BAR cerveza artesana 1",
+      "Carrer Major, 97",
+      "Santa Maria de Corcó",
+      42.0365545,
+      2.3690803,
+      "BAR cerveza artesana 1",
+      "Alimentació",
+      1
+    ],
+    [
+      "BAR cerveza artesana 2",
+      "Avinguda Nostra Senyora de Montserrat, 35",
+      "Sant Julià de Vilatorta",
+      41.9219023,
+      2.3237233,
+      "BAR cerveza artesana 2",
+      "Alimentació",
+      2
+    ],
+    [
+      "Tienda cerveza 1",
+      "Carrer Fusteria, 46",
+      "Tona",
+      41.85532,
+      2.239086,
+      "Tienda cerveza 1",
+      "Tienda",
+      3
+    ],
+    [
+      "Tienda cerveza 2",
+      "Carrer del Remei, 64",
+      "Vic",
+      41.9212890386934,
+      2.2492056980403,
+      "Tienda cerveza 1",
+      "Tienda",
+      4
+    ]
+  ]
+}
