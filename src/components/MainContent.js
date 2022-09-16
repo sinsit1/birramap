@@ -166,7 +166,7 @@ const MainContent = ({
   >
     <GeolocateControl
       positionOptions={{enableHighAccuracy: true}}
-      //style={{visibility: 'hidden'}}
+      style={{right: '10px', top: '10px'}}
       trackUserLocation={true}
     />
     {selectedFeature && <PopupWrapper

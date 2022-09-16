@@ -10,46 +10,39 @@
             "Hex clar"
         ],
         [
-            "Alimentació",
+            "Bares",
             "dark_cyan_2",
             "#134f5c",
             "dark_cyan_1",
             "#45818e"
         ],
         [
-            "Drogueria",
+            "Taprooms",
             "dark_green_2",
             "#38761d",
             "dark_green_1",
             "#6aa84f"
         ],
         [
-            "Tienda",
+            "Tiendas",
             "dark_red_berry_3",
             "#5b0f00",
             "light_red_berry_1",
             "#cc4125"
         ],
         [
-            "Roba i altres",
+            "Fábricas",
             "dark_orange_3",
             "#783f04",
             "dark_orange_1",
             "#e69138"
         ],
         [
-            "Ferreteria",
+            "Otros",
             "dark_yellow_3",
             "#7f6000",
             "dark_yellow_1",
             "#f1c232"
-        ],
-        [
-            "Begudes",
-            "dark_purple_2",
-            "#351c75",
-            "dark_purple_1",
-            "#674ea7"
         ]
     ]
 }
